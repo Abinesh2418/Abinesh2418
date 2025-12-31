@@ -8,35 +8,6 @@ I build **end-to-end AI systems** — from data and models to APIs and deploymen
 
 ---
 
-## 📌 Table of Contents
-
-* [About Me](#about-me)
-* [🔧 Tech Stack & Skills](#-tech-stack--skills)
-
-  * [AI Frameworks & Libraries](#ai-frameworks--libraries)
-  * [Web & App Frameworks](#web--app-frameworks)
-  * [Databases](#databases)
-  * [Tools & Platforms](#tools--platforms)
-* [💼 Professional Experience](#-professional-experience)
-* [🛠️ Projects](#️-projects)
-* [🎓 Education & Certifications](#-education--certifications)
-* [🏆 Achievements](#-achievements)
-* [🔥 Interests & Collaboration](#-interests--collaboration)
-* [📊 LeetCode Statistics](#-leetcode-statistics)
-* [📈 GitHub Stats](#-github-stats)
-* [💬 Connect with Me](#-connect-with-me)
-
----
-
-## About Me
-
-* 🎯 Focused on **AI/ML, LLMs, and Inference Engineering**
-* 🧠 Strong interest in **system design, model orchestration, and fallback strategies**
-* 🚀 Experienced in building **production-ready AI systems**
-* 🤝 Open to collaboration on **AI agents, GenAI, and scalable ML systems**
-
----
-
 ## 🔧 Tech Stack & Skills
 
 ### Programming Languages
@@ -97,31 +68,14 @@ ONE OPTIMAL SOLUTION
 
 ## 💼 Professional Experience
 
-| **Project**                      | **Description**                                                                   | **Tech Stack**                            |
-| -------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------- |
-| 📊 **Sales Price Prediction**    | Regression-based forecasting system to predict sales prices using historical data | Python, Scikit-learn, Pandas, Matplotlib  |
-| 🚜 **Bulldozer Price Detection** | Machine learning regression model for estimating bulldozer prices                 | Python, Scikit-learn, XGBoost, Pandas     |
-| 🐕 **Dog Breed Classification**  | Deep learning-based image classification system for identifying dog breeds        | Python, TensorFlow / PyTorch, CNN, OpenCV |
-
---------|-------------|------------|
-| 📊 **Sales Price Prediction** | Regression-based forecasting system to predict sales prices using historical data | Python, Scikit-learn, Pandas, Matplotlib |
-| 🚜 **Bulldozer Price Detection** | Machine learning regression model for estimating bulldozer prices | Python, Scikit-learn, XGBoost, Pandas |
-| 🐕 **Dog Breed Classification** | Deep learning-based image classification system for identifying dog breeds | Python, TensorFlow / PyTorch, CNN, OpenCV |
-
--------|------------|------------|
-| **Roller Defect Detection** | Computer vision system to detect manufacturing defects using deep learning models | Python, OpenCV, YOLO, PyTorch |
-| **Inference Engine System** | Designed a scalable inference engine with model selection, limits, fallback, and endpoint orchestration | FastAPI, PostgreSQL, Redis, LLM APIs |
-| **HyperVerge (Mentorship / Internship)** | Hands-on experience with real-world AI systems, production thinking, and scalable ML workflows | Python, ML, System Design |
-| **Pet Adoption System** | Full-stack AI-powered platform connecting shelters and adopters with intelligent features | MERN, MongoDB, AI Models |
-
----
-
------|-------------|------------|
-| 📊 **Sales Price Prediction** | Regression-based forecasting system to predict sales prices using historical data | Python, Scikit-learn, Pandas, Matplotlib |
-| 🚜 **Bulldozer Price Detection** | Machine learning regression model for estimating bulldozer prices | Python, Scikit-learn, XGBoost, Pandas |
-| 🐕 **Dog Breed Classification** | Deep learning-based image classification system for identifying dog breeds | Python, TensorFlow / PyTorch, CNN, OpenCV |
-
----
+| Project                              | Description                                                                                      | Tech Stack                               |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| Roller Defect Detection              | Computer vision system to detect surface defects in industrial rollers using deep learning       | Python, OpenCV, YOLO, PyTorch            |
+| HyperVerge                           | Worked on real-world AI/ML problems with a focus on production-level thinking and system design  | Python, Machine Learning, System Design  |
+| Inference Engine System              | Designed an inference engine with model routing, fallback logic, benchmarking, and orchestration | Python, FastAPI, PostgreSQL, Redis       |
+| Sales Price Prediction               | Regression-based forecasting system to predict sales prices from historical data                 | Python, Scikit-learn, Pandas, Matplotlib |
+| Dog Breed Classification             | Deep learning-based image classification system to identify dog breeds                           | Python, TensorFlow / PyTorch, CNN        |
+| MallData-Customer-Segmentation       | Customer segmentation using unsupervised learning to identify purchasing behavior patterns       | Python, Scikit-learn, K-Means, Pandas    |
 
 ## 🎓 Education & Certifications
 
