@@ -62,7 +62,7 @@ I enjoy solving real-world problems through structured thinking and system desig
 | Project                              | Description                                                                                      | Tech Stack                               |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------- |
 | Roller Defect Detection              | Computer vision system to detect surface defects in industrial rollers using deep learning       | Python, OpenCV, YOLO, PyTorch            |
-| HyperVerge                           | Worked on real-world AI/ML problems with a focus on production-level thinking and system design  | Python, Machine Learning, System Design  |
+| HyperVerge                           | Built two production-oriented ML models: (1) a loan repayment prediction model to assess whether a user can repay a loan, and (2) a time-series forecasting model using Facebook Prophet to predict future financial transactions | Python, Scikit-learn, Pandas, Facebook Prophet, Time Series Analysis |
 | Inference Engine System              | Designed an inference engine with model routing, fallback logic, benchmarking, and orchestration | Python, FastAPI, PostgreSQL, Redis       |
 | Sales Price Prediction               | Regression-based forecasting system to predict sales prices from historical data                 | Python, Scikit-learn, Pandas, Matplotlib |
 | Dog Breed Classification             | Deep learning-based image classification system to identify dog breeds                           | Python, TensorFlow / PyTorch, CNN        |
