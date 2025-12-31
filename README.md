@@ -45,12 +45,6 @@ I build **end-to-end AI systems** — from data and models to APIs and deploymen
 * Git & GitHub
 * Docker
 
----
-
-🟢 This represents my mindset while building AI systems — exploring multiple perspectives and converging into a **single efficient solution**.
-
----
-
 ## 💼 Professional Experience
 
 | Project                              | Description                                                                                      | Tech Stack                               |
