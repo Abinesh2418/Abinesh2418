@@ -10,9 +10,11 @@ I build **end-to-end AI systems** — from data and models to APIs and deploymen
 
 ## 🔧 Tech Stack & Skills
 
-### Programming Languages
-
-* **Python**, **Java**, **C**, **C++**
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### AI Frameworks & Libraries
 
