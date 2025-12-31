@@ -90,19 +90,16 @@ I build **end-to-end AI systems** — from data and models to APIs and deploymen
 
 ## 📊 LeetCode Statistics
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/abinesh_06?theme=dark)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abinesh_06?theme=dark&font=Inter&ext=heatmap" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinesh2418&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh2418&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abinesh2418)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abinesh2418)
 
 ---
 
