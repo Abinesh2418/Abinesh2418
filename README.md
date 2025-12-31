@@ -47,21 +47,6 @@ I build **end-to-end AI systems** — from data and models to APIs and deploymen
 
 ---
 
-## 🧠 From Thought → Analysis → Solution (Visual Concept)
-
-> **How I approach problems**
-
-```text
-User Problem
-     ↓
-Multiple Thought Paths
-(analysis • cost • performance)
-     ↓
-AI Reasoning & System Design
-     ↓
-ONE OPTIMAL SOLUTION
-```
-
 🟢 This represents my mindset while building AI systems — exploring multiple perspectives and converging into a **single efficient solution**.
 
 ---
