@@ -96,8 +96,13 @@ I build **end-to-end AI systems** — from data and models to APIs and deploymen
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinesh2418\&show_icons=true\&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh2418\&layout=compact\&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinesh2418&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh2418&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
