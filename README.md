@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Abinesh
 
-> **AI/ML Engineer | System Builder**
+> **AI/ML Engineer**
 
-I am passionate about **Artificial Intelligence and Machine Learning** with strong interests in **Machine Learning, Deep Learning, NLP, Generative AI, LLMs, AI Agents, and Agentic AI**.
+I am a Computer Science and Engineering student and an AI & Machine Learning Engineer with a strong foundation in machine learning, data science, and full-stack application development. I have hands-on experience in building and deploying real-world AI solutions for practical business use cases.
 
-I build **end-to-end AI systems** — from data and models to APIs and deployment — and enjoy solving **real-world problems** by thinking in multiple directions and delivering **scalable, practical solutions**.
+My areas of expertise include Machine Learning, Deep Learning, NLP, Generative AI, Large Language Models (LLMs), AI Agents, and Agentic AI. I build end-to-end AI systems—from data processing and model development to APIs and deployment—with a focus on scalable, production-ready architectures.
+
+I enjoy solving real-world problems through structured thinking and system design, and I aim to deliver measurable impact within industry-driven, innovative technology teams.
 
 ---
 
